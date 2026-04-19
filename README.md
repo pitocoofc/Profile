@@ -6,7 +6,7 @@
 
 # <h1 align="center"> Olá, meu nome é Brenda 🤍 </h1> 
 
-<div align="center"><img src="https://64.media.tumblr.com/ed8745b30c1a1d7eb1935017c94d8dbf/tumblr_n9i8foLj941qc2xm1o1_500.gifv" width="668"/></div>
+<div align="center"><img src="https://avatars.githubusercontent.com/u/215600808?s=400&u=c9da2895a7c4d306e6787d810896be5612bd1a7a&v=4" width="668"/></div>
 
 
 <p align= "center"> <b>Conecte-se comigo | Connect with me...</b> </p>
