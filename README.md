@@ -9,22 +9,15 @@
 <div align="center"><img src="https://avatars.githubusercontent.com/u/215600808?s=400&u=c9da2895a7c4d306e6787d810896be5612bd1a7a&v=4" width="668"/></div>
 
 
-<p align= "center"> <b>Conecte-se comigo | Connect with me...</b> </p>
-
-<div align="center">
-<a href='https://www.linkedin.com/in/brenda-antunes-silva/'> <img src='https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white' alt='Imagem LinkedIn' /> </a>
- </div>
 
 
 -----------------------------------------------------
 
-<p align= "center">✔ Seja bem-vindo/bem-vinda ao meu perfil do GitHub! ✔</p>
+
 <p align= "center">✔ Welcome to my GitHub profile! ✔</p>
-<div align="center"><img src="https://user-images.githubusercontent.com/69852246/231012749-25c9df4e-bf21-4077-bcf6-d4bd5557190a.png" /> </div>
 
-✔ Atualmente sou desenvolvedora Frontend e UI Designer. Qualquer dúvida, sugestão e convite para colaborações você pode entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/brenda-antunes-silva/) ou [Discord](https://discord.com/users/Bre#5731). Veja meu [Portfólio](https://portfolio-brenda-a-s.web.app/).
+I am currently a JavaScript, HTML, Lua, Brainfuck, and other language developer.
 
-✔ Currently, I'm Front-End developer and UI Designer. If you have any questions, suggestions, or collaboration invitations, you can contact me through my [LinkedIn](https://www.linkedin.com/in/brenda-antunes-silva/) or [Discord](https://discord.com/users/Bre#5731). See my [Portfolio](https://portfolio-brenda-a-s.web.app/).
 
 
 <p align= "center"> 🌍  São Paulo | 🤝  Open to collaborating on Front-End Projects </p>
