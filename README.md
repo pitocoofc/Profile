@@ -34,4 +34,4 @@ portugol: 1 year
 brainfuck: 6 years
 
 
-<a/> href="https://github-readme-stats.vercel.app/api/top-langs/?username=pitocoofc&langs_count=10 </a>
+<a/> href="https://github-readme-stats.vercel.app/api/top-langs/?username=pitocoofc&langs_count=10" </a>
