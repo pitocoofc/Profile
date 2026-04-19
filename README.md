@@ -2,9 +2,7 @@
 
 
 
-
-
-# <h1 align="center"> Olá, meu nome é Brenda 🤍 </h1> 
+ 
 
 <div align="center"><img src="https://avatars.githubusercontent.com/u/215600808?s=400&u=c9da2895a7c4d306e6787d810896be5612bd1a7a&v=4" width="668"/></div>
 
